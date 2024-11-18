@@ -23,8 +23,8 @@ A streamlined data search tool that allows users to upload CSV files or connect 
 3. Set up environment variables:
    - Create a '.env' file with your API keys:
    
-   SERPAPI_KEY=your_serpapi_key_here
-   GROQ_API_KEY=your_groq_api_key_here
+   - SERPAPI_KEY=your_serpapi_key_here
+   - GROQ_API_KEY=your_groq_api_key_here
 
 5. For Google Sheets integration:
    - Place your Google Sheets API credentials in 'credentials.json'
